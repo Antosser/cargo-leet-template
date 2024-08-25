@@ -5,4 +5,9 @@ authors = ["{{authors}}"]
 edition = "2021"
 
 [dependencies]
-rstest = "^0.22.0"
+# Current versions can be found at https://support.leetcode.com/hc/en-us/articles/360011833974-What-are-the-environments-for-the-programming-languages
+rand = "0.8"
+regex = "1"
+
+cargo-leet = "0.2.0"
+rstest = "0.22.0"
