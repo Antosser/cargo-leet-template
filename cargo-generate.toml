@@ -1,0 +1,2 @@
+[placeholders]
+init_including_number_in_name = { prompt = "Include the leetcode problem number in the filename for each problem", type = "bool" }
