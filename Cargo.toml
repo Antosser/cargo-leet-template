@@ -2,10 +2,11 @@
 name = "{{project-name}}"
 version = "0.1.0"
 authors = ["{{authors}}"]
-edition = "2021"
+edition = "2024"
 
 [dependencies]
 # Current versions can be found at https://support.leetcode.com/hc/en-us/articles/360011833974-What-are-the-environments-for-the-programming-languages
+itertools = "0.14"
 rand = "0.8"
 regex = "1"
 
