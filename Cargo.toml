@@ -10,5 +10,5 @@ itertools = "0.14"
 rand = "0.8"
 regex = "1"
 
-cargo-leet = "0.2.0"
-rstest = "0.22.0"
+cargo-leet = "0.3.0"
+rstest = "0.26.1"
